@@ -1,0 +1,6 @@
+{
+    "$schema": "http://json.schemastore.org/nodemon",
+    "colours": true,
+    "exec": "./node_modules/.bin/ts-node src/index.ts",
+    "watch": ["src/index.ts"]
+}
